@@ -36,4 +36,5 @@ plt.ylabel("Product Performance")
 plt.tight_layout()
 
 plt.show()
+<img width="790" height="989" alt="download" src="https://github.com/user-attachments/assets/bbb6416e-dc9b-4850-95e5-66c51ee483ff" />
 
